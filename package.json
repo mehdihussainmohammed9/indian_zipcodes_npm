@@ -1,0 +1,15 @@
+{
+  "name": "indian_zipcodes",
+  "version": "1.0.0",
+  "description": "Get the data by giving zipcode as input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mehdi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
